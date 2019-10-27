@@ -8,10 +8,15 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: '主页', link: '/' },
-            { text: '人生', link: '/life/' },
             { text: '见闻', link: '/see/' },
             { text: '杂谈', link: '/notes/' },
-            // 下拉列表的配置
+            // 下拉列表的配置 vuepress-theme-yubisaki
+            {
+                text: '项目',
+                items: [
+                    { text: '点餐系统', link: '/project/diancan' }
+                ]
+            },
             {
                 text: '技术',
                 items: [
