@@ -27,6 +27,14 @@ module.exports = {
                     { text: '物联网', link: '/it/iot/' },
                 ]
             }
-        ]
+        ],
+        sidebar: {
+            '/project/diancan/': [
+                '',
+                'requirement',
+                'design',
+            ]
+        }
+
     }
 }
