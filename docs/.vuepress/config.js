@@ -7,9 +7,7 @@ module.exports = {
     ],
     themeConfig: {
         nav: [
-            { text: '主页', link: '/' },
-            { text: '见闻', link: '/see/' },
-            { text: '笔记', link: '/notes/' },
+            { text: '首页', link: '/' },
             { text: '面试', link: '/interview/' },
             // 下拉列表的配置 vuepress-theme-yubisaki
             {
@@ -19,22 +17,16 @@ module.exports = {
                 ]
             },
             {
-                text: '技术',
+                text: '笔记',
                 items: [
-                    { text: 'C', link: '/it/c/' },
-                    { text: 'Java', link: '/it/java/' },
-                    { text: 'Python', link: '/it/python/' },
-                    { text: '物联网', link: '/it/iot/' },
+                    { text: 'C', link: '/note/c/' },
+                    { text: 'Java', link: '/note/java/' },
+                    { text: 'Python', link: '/note/python/' },
+                    { text: '物联网', link: '/note/iot/' },
                 ]
-            }
+            },
+            { text: '51CTO', link: 'https://blog.51cto.com/skyarac' },
+            { text: 'Github', link: 'https://www.github.com/aracwong' },
         ],
-        sidebar: {
-            '/project/diancan/': [
-                '',
-                'requirement',
-                'design',
-            ]
-        }
-
     }
 }
