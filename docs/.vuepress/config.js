@@ -19,10 +19,10 @@ module.exports = {
             {
                 text: '笔记',
                 items: [
-                    { text: 'C', link: '/note/c/' },
+                    { text: '算法', link: '/note/algorithm/' },
                     { text: 'Java', link: '/note/java/' },
-                    { text: 'Python', link: '/note/python/' },
-                    { text: '物联网', link: '/note/iot/' },
+                    // { text: 'Python', link: '/note/python/' },
+                    // { text: '物联网', link: '/note/iot/' },
                 ]
             },
             { text: '51CTO', link: 'https://blog.51cto.com/skyarac' },

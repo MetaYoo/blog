@@ -1,9 +1,7 @@
 ---
-layout: post
+sidebar: auto
 title:  "Java 线程顺序执行"
 date:   2014-02-01 09:00:13
-categories: 多线程
-permalink: /archivers/thread-for-java-1
 ---
 
 ```java

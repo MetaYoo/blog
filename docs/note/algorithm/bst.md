@@ -1,9 +1,7 @@
 ---
-layout: post
+sidebar: auto
 title:  "算法与数据结构-二叉搜索树"
 date:   2013-02-01 09:00:13
-categories: 算法与数据结构
-permalink: /archivers/arithmetic-bst
 ---
 
 # 二叉搜索树 #
@@ -11,7 +9,7 @@ permalink: /archivers/arithmetic-bst
 
 <!--more-->
 
-![满二叉搜索树]({{ "/assets/images4post/bst.png" | absolute_url }})
+[满二叉搜索树](/img/bst.png)
 
 ## 原理 ##
 二叉排序树的查找过程和次优二叉树类似，通常采取二叉链表作为二叉排序树的存储结构。

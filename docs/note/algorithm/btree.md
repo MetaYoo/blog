@@ -1,9 +1,7 @@
 ---
-layout: post
+sidebar: auto
 title:  "算法与数据结构-二叉树"
 date:   2013-01-01 09:00:13
-categories: 算法与数据结构
-permalink: /archivers/arithmetic-btree
 ---
 
 # 二叉树 #
@@ -31,7 +29,7 @@ permalink: /archivers/arithmetic-btree
 
 
 ## 完全二叉树 ##
-![完全二叉树]({{ "/assets/images4post/wq_bt.png" | absolute_url }})
+[完全二叉树](/img/wq_bt.png)
 
 ## 满二叉树 ##
-![满二叉树]({{ "/assets/images4post/man_bt.png" | absolute_url }})
+[满二叉树](/img/man_bt.png)

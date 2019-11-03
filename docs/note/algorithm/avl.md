@@ -1,9 +1,7 @@
 ---
-layout: post
+sidebar: auto
 title:  "算法与数据结构-平衡二叉树"
 date:   2013-02-01 09:00:13
-categories: 算法与数据结构
-permalink: /archivers/arithmetic-avl
 ---
 
 # 平衡二叉树(AVL) #
